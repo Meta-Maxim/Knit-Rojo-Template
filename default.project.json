@@ -1,0 +1,30 @@
+{
+    "name": "knit-rojo-template",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Source": {
+                "$path": "src/ReplicatedStorage"
+            },
+            "Packages": {
+                "$path": "Packages"
+            }
+        },
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "Source": {
+                "$path": "src/ServerScriptService"
+            }
+        },
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+            "StarterPlayerScripts": {
+                "$className": "StarterPlayerScripts",
+                "Source": {
+                    "$path": "src/StarterPlayerScripts"
+                }
+            }
+        }
+    }
+}
